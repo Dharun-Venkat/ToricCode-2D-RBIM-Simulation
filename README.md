@@ -1,1 +1,1 @@
-# ToricCode-2D-RBIM-Simulation
+# 2D RBIM Simulation to find the Critical Point
