@@ -24,7 +24,7 @@ This repository contains the code written for the project. It evaluates transfer
 
 ## How To Use
 
-
+Explanations are contained in the markdown note sections of the code. In essence, one can change the parameters of the simulation and then run the remaining cells to find the result.
 
 ------------------------------------------------------
 
